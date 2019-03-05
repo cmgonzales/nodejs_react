@@ -1,0 +1,27 @@
+
+[
+    {
+      "model": "prius",
+      "seats": [
+        "four",
+        "one"
+      ]
+    },
+    {
+      "model": "mazda",
+      "seats": [
+        "three",
+        "two"
+      ]
+    },
+    {
+      "model": "benz",
+      "seats": [
+        "five",
+        "nine"
+      ]
+    }
+
+]
+   
+
