@@ -13,6 +13,6 @@ const noval = new Car({color: "yellow"})
 
 console.log(cons);
 console.log(test);
-console.log( noval );
+console.log(` noval ${noval}`);
 
 
