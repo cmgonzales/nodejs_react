@@ -20,6 +20,14 @@
         "five",
         "nine"
       ]
+    },
+    {
+      "model": "civic",
+      "seats":[
+        "four",
+        "seven",
+        "twnety"
+      ]
     }
 
 ]
