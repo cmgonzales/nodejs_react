@@ -1,1 +1,1 @@
-practive react and nodejs
+practice app front end is react then nodejs for server side
